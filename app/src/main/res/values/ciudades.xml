@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nombre_ciudades">
+        <item>Burgos</item>
+        <item>Barcelona</item>
+        <item>Soria</item>
+        <item>Sevilla</item>
+        <item>Santander</item>
+        <item>Alicante</item>
+        <item>Almería</item>
+    </string-array>
+</resources>
